@@ -10,6 +10,15 @@ h1 {
     max-width:980px;
 }
 
+h3 {
+	color: white;
+    margin: auto;
+	text-align: center;
+    font-size: 3em;
+    font-family: "Times New Roman", Times, serif;
+    max-width:980px;
+}
+
 p {
     margin: 50px;
 	color: white;
